@@ -1,0 +1,52 @@
+.dashboard-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    background: #333;
+    color: white;
+}
+
+.about-us-link {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    margin-right: auto;
+    padding: 5px 15px;
+}
+
+.about-us-container {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.about-us-container h1, .about-us-container h2 {
+    color: #333;
+}
+
+.about-us-container p {
+    font-size: 18px;
+    color: #555;
+}
+
+.about-us-container ul {
+    list-style: none;
+    padding: 0;
+}
+
+.about-us-container ul li {
+    font-size: 16px;
+    margin: 5px 0;
+}
+
+.back-btn {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 15px;
+    background: #f700ff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
